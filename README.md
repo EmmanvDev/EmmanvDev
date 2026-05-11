@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">💻 Beginner Developer | Learning Python & Programming Logic</h3>
+
+<h3 align="center">
+💻 Beginner Developer | Python Learner | Future Software Engineer 🚀
+</h3>
 
 <p align="center">
-  A passionate beginner developer focused on growing every day 🚀
+Passionate about technology, programming logic, and improving every single day.
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 - 🌱 Currently learning **Python** and **Programming Logic**
 - 🎯 Focused on becoming a professional software developer
 - ⚡ Building projects to improve my skills step by step
 - 📚 Interested in backend development and problem solving
-- 🚀 Learning something new every single day
+- 🚀 Learning something new every day
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 <p align="left">
-  
+
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
@@ -30,7 +33,7 @@
 
 ---
 
-## 📈 Current Learning Progress
+# 📈 Current Learning Progress
 
 ```txt
 Python               ███████░░░ 70%
@@ -40,7 +43,7 @@ Git & GitHub         ████░░░░░░ 40%
 
 ---
 
-## 🚀 Goals for 2026
+# 🚀 Goals for 2026
 
 - ✅ Master Python fundamentals
 - ✅ Build real-world projects
@@ -50,25 +53,29 @@ Git & GitHub         ████░░░░░░ 40%
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanvDev&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanvDev&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 Daily Mindset
+# 🔥 GitHub Streak
 
-> “Small progress every day becomes big results.”
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=EmmanvDev&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -77,6 +84,12 @@ Git & GitHub         ████░░░░░░ 40%
 </a>
 
 </p>
+
+---
+
+# 🔥 Daily Mindset
+
+> “Small progress every day becomes big results.”
 
 ---
 
