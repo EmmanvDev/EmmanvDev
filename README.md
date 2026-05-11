@@ -1,65 +1,85 @@
-# 👋 Hey, I'm Emmanuel
+<h1 align="center">Hi 👋, I'm Marcos</h1>
+<h3 align="center">💻 Beginner Developer | Learning Python & Programming Logic</h3>
 
-💻 Aspiring Software Developer  
-🚀 Currently learning Python, Logic & Problem Solving  
-📚 Passionate about technology and continuous growth  
+<p align="center">
+  A passionate beginner developer focused on growing every day 🚀
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm currently focused on becoming a better programmer every single day.
-
-Right now I'm learning:
-- Python
-- Programming Logic
-- Problem Solving
-- Object-Oriented Programming
-- Git & GitHub
-
-I enjoy building projects, understanding how systems work, and improving my coding skills step by step.
-
----
-
-## ⚡ Current Goals
-
-- Build real-world projects
-- Master Python
-- Improve problem-solving skills
-- Learn backend development
-- Contribute to open source someday
+- 🌱 Currently learning **Python** and **Programming Logic**
+- 🎯 Focused on becoming a professional software developer
+- ⚡ Building projects to improve my skills step by step
+- 📚 Interested in backend development and problem solving
+- 🚀 Learning something new every single day
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+<p align="left">
+  
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+</p>
+
+---
+
+## 📈 Current Learning Progress
+
 ```txt
-Python
-Git
-GitHub
-VS Code
+Python               ███████░░░ 70%
+Programming Logic    ██████░░░░ 60%
+Git & GitHub         ████░░░░░░ 40%
 ```
 
 ---
 
-## 📈 Learning Journey
+## 🚀 Goals for 2026
 
-```txt
-[███████░░░░░░░░] Beginner → Growing Every Day
-```
-
----
-
-## 🔥 Mindset
-
-> "Every expert was once a beginner who refused to quit."
+- ✅ Master Python fundamentals
+- ✅ Build real-world projects
+- ✅ Improve problem-solving skills
+- 🔄 Learn backend development
+- 🔄 Contribute to open source projects
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/EmmanvDev
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSERNAME&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact"/>
+
+</p>
 
 ---
 
+## 🔥 Daily Mindset
+
+> “Small progress every day becomes big results.”
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/EmmanvDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
